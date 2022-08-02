@@ -11,7 +11,7 @@
 - 🏫 I'm a CSE student at NIT Agartala (INDIA) <br/>
 - 🌱 I’m currently learning system design. <br/>
 - 🤝 I’m looking to collaborate on MERN projects. <br/>
-- 💬 Ask me about alogorithms😄
+- 💬 Ask me about algorithms😄
 - 📫  Please email via rayanubhab@gmail.com to reach me.
 - 🥅 2022 Goal: Start contributing to Open Source projects!<br/>
 - ⚡ Fun fact: A cup of coffee keeps bugs away XD
